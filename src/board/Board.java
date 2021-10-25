@@ -18,7 +18,7 @@ import pieces.Rook;
 
 /**
  * @author Daniel
- *
+ * This class represents game board.
  */
 public class Board {
 	
